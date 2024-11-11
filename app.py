@@ -1,3 +1,7 @@
+###############################################################
+######### this app requires NVIDIA GPU for CUDA ###############
+###############################################################
+
 import torch
 from diffusers import DiffusionPipeline
 import gradio as gr
